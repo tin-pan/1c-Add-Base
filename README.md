@@ -2,6 +2,8 @@
 
 Графическое приложение (WPF) на PowerShell для добавления записей о базах 1С в файлы `ibases.v8i` на компьютерах пользователей домена Active Directory.
 
+<img width="1358" height="1052" alt="изображение" src="https://github.com/user-attachments/assets/1b4cb3ea-163a-40c1-9740-aceb5a5aa7aa" />
+
 ## 📋 Возможности
 
 - Поиск пользователей в Active Directory по части `displayName` или `CN`.
